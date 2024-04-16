@@ -76,6 +76,15 @@ header nav ul li a{
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.hero-adopcion{
+    background-color: #57bd9e;
+    padding: 20px;
+}
+
+.hero-adopcion h1{
+    text-align: center;
+}
 /* -------------- TARJETAS ---------------- */
 .adoptar {
     background-color: #2ca880;
@@ -131,6 +140,12 @@ header nav ul li a{
     margin-left: 35%;
 }
 
+/* FORMULARIO */
+
+.formulario{
+    padding: 30px;
+    background-color: #14d69f;
+}
 /* ---------------- FOOTER --------------- */
 .grid-footer{
     display: grid;
