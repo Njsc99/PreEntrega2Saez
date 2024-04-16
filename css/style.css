@@ -253,6 +253,14 @@ header nav ul li a{
 }
 
 @media screen and (max-width: 733px) {
+    .hero{
+        height: 800px;
+    }
+
+    .hero p{
+        font-size: large;
+    }
+    
     .hero div p{
         width: 500px;
     }
@@ -263,10 +271,11 @@ header nav ul li a{
 
 @media screen and (max-width: 649px) {
     .hero {
-        height: 750px;
+        height: 720px;
     }
     .hero div p{
         width: 400px;
+        font-size: large;
     }
     .hero img {
         width: 400px;
@@ -275,10 +284,11 @@ header nav ul li a{
 
 @media screen and (max-width: 430px) {
     .hero {
-        height: 800px;
+        height: 720px;
     }
     .hero div p{
         width: 300px;
+        font-size: large;
     }
     .hero img {
         width: 300px;
